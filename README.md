@@ -8,4 +8,7 @@ A python script to shorten any link, you need to pass the link and what do you w
 ## Habit Tracker
 A python-play script to run an algorithm which determines how much time/money a user is wasting on certain hobby.
 
+## SMS Sender
+A python script to send messages to a phone number using API twilio.
+
 ---

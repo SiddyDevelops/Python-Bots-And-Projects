@@ -12,6 +12,6 @@ A python-play script to run an algorithm which determines how much time/money a 
 A python script to send messages to a phone number using API twilio.
 
 ## CryptoCurrency Checker
-A python script which repeadly updates the latest prices of CryptoCurrencies using an API. 
+A python script which repeatedly updates the latest prices of CryptoCurrencies using an API: https://p.nomics.com/cryptocurrency-bitcoin-api 
 
 ---

@@ -1,1 +1,1 @@
-NOMICS_API_KEY = 'd376bf3f7fbba676d6f276657188a49e5962dc75'
+NOMICS_API_KEY = '************************'

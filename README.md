@@ -14,4 +14,7 @@ A python script to send messages to a phone number using API twilio.
 ## CryptoCurrency Checker
 A python script which repeatedly updates the latest prices of CryptoCurrencies using an API: https://p.nomics.com/cryptocurrency-bitcoin-api 
 
+## Auto Clicker
+A python script which automates the mouse click and position option. This can later be integrated to automatically open a file/folder, send messages, etc.
+
 ---

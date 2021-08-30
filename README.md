@@ -17,4 +17,7 @@ A python script which repeatedly updates the latest prices of CryptoCurrencies u
 ## Auto Clicker
 A python script which automates the mouse click and position option. This can later be integrated to automatically open a file/folder, send messages, etc.
 
+## Whats's App Bot
+A python script to which can read What'sApp-Web messages and reply with a custom message.
+
 ---

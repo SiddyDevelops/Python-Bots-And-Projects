@@ -20,4 +20,7 @@ A python script which automates the mouse click and position option. This can la
 ## Whats's App Bot
 A python script to which can read What'sApp-Web messages and reply with a custom message.
 
+## Brute Force Password 
+A python script that check all the possible combinations to check the strength of a given password.
+
 ---

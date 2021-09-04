@@ -23,4 +23,7 @@ A python script to which can read What'sApp-Web messages and reply with a custom
 ## Brute Force Password 
 A python script that check all the possible combinations to check the strength of a given password.
 
+## Web Scraping 
+A collection of python scripts that fetchs information from HTML tags directly with just like of website. 
+
 ---

@@ -32,4 +32,7 @@ A python script which responds to user's input text as an artificial assistance.
 ## Discord Bot
 A python script that creates a real discord bot that interacts with other discord users in a server.
 
+## Telegram Bot
+A python script that create a telegram bot to inertact and exchange data and information with user.
+
 ---

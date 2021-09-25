@@ -26,4 +26,7 @@ A python script that check all the possible combinations to check the strength o
 ## Web Scraping 
 A collection of python scripts that fetchs information from HTML tags directly with just like of website. 
 
+## Chat Bot
+A python script which responds to user's input text as an artificial assistance.
+
 ---

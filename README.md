@@ -29,4 +29,7 @@ A collection of python scripts that fetchs information from HTML tags directly w
 ## Chat Bot
 A python script which responds to user's input text as an artificial assistance.
 
+## Discord Bot
+A python script that creates a real discord bot that interacts with other discord users in a server.
+
 ---
